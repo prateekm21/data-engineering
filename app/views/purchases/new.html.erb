@@ -1,0 +1,12 @@
+
+<% if params[:inventory_errors]%>
+	<% params[:inventory_errors].each{|one_error|%>		
+		<%= one_error.html_safe %>	
+	<%}%>	
+<%end%>
+
+<%= form_tag @purchase, :multipart => true do %>
+  <%= file_field_tag :file %>
+  <%= submit_tag "Upload Purchase" %>
+<% end %>
+

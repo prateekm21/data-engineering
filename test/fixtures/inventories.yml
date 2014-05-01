@@ -1,0 +1,15 @@
+one:
+  item_description: MyString
+  item_price: 9.99
+  purchase_count: 1
+  merchant_address: MyString
+  merchant_name: MyString
+  upload_id: 1
+
+two:
+  item_description: MyString
+  item_price: 9.99
+  purchase_count: 1
+  merchant_address: MyString
+  merchant_name: MyString
+  upload_id: 1

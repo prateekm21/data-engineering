@@ -1,0 +1,17 @@
+
+
+<table>
+  <tr>
+    <th>File Name</th>
+    <th>Gross Revenue</th>
+  </tr>
+  <% for purchase in @purchases %>
+    <tr>
+      <td><%= purchase.file_name %></td>
+      <td><%= purchase.gross_revenue %></td>
+      <td><%= link_to "Show", purchase %></td>
+    </tr>
+  <% end %>
+</table>
+
+<p><%= link_to "New Purchase", new_purchase_path %></p>

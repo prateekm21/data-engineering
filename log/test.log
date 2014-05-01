@@ -1,0 +1,583 @@
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+Processing by PurchasesController#create as HTML
+  Parameters: {"file"=>"#<File:0x007fccd471ecd0>"}
+Completed 500 Internal Server Error in 0ms
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Processing by PurchasesController#create as HTML
+  Parameters: {"file"=>#<Rack::Test::UploadedFile:0x007fcedcadfd38 @content_type="text/plain", @original_filename="valid.tab", @tempfile=#<File:/var/folders/b0/b_yq0c6s509cgb8kcr_nb_0c0000gn/T/valid.tab20140424-7633-ghdy14>>}
+Completed 500 Internal Server Error in 5ms
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+Processing by PurchasesController#create as HTML
+  Parameters: {"file"=>"#<File:0x007f8044375ca0>"}
+Completed 500 Internal Server Error in 1ms
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Processing by PurchasesController#create as HTML
+  Parameters: {"file"=>#<Rack::Test::UploadedFile:0x007f926502a838 @content_type="text/plain", @original_filename="valid.tab", @tempfile=#<File:/var/folders/b0/b_yq0c6s509cgb8kcr_nb_0c0000gn/T/valid.tab20140424-7645-qwdjbf>>}
+Completed 500 Internal Server Error in 5ms
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+Processing by PurchasesController#create as HTML
+  Parameters: {"file"=>#<Rack::Test::UploadedFile:0x007f92079214e0 @content_type="text/plain", @original_filename="valid.tab", @tempfile=#<File:/var/folders/b0/b_yq0c6s509cgb8kcr_nb_0c0000gn/T/valid.tab20140424-7658-2kfm3q>>}
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (9.1ms)[0m  [1mINSERT INTO "purchases" ("created_at", "file_name", "gross_revenue", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Fri, 25 Apr 2014 00:33:08 UTC +00:00], ["file_name", "valid.tab"], ["gross_revenue", nil], ["updated_at", Fri, 25 Apr 2014 00:33:08 UTC +00:00]]
+  [1m[35mSQL (0.7ms)[0m  INSERT INTO "inventories" ("created_at", "item_description", "item_price", "merchant_address", "merchant_name", "purchase_count", "purchase_id", "purchaser_name", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)  [["created_at", Fri, 25 Apr 2014 00:33:08 UTC +00:00], ["item_description", "$10 off $20 of food"], ["item_price", #<BigDecimal:7f920799d608,'0.2E2',9(45)>], ["merchant_address", "987 Fake St"], ["merchant_name", "Bob's Pizza"], ["purchase_count", 2], ["purchase_id", 1], ["purchaser_name", "Snake Plissken"], ["updated_at", Fri, 25 Apr 2014 00:33:08 UTC +00:00]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (1.1ms)[0m  [1mINSERT INTO "inventories" ("created_at", "item_description", "item_price", "merchant_address", "merchant_name", "purchase_count", "purchase_id", "purchaser_name", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Fri, 25 Apr 2014 00:33:08 UTC +00:00], ["item_description", "$30 of awesome for $10"], ["item_price", #<BigDecimal:7f92079a9188,'0.1E2',9(45)>], ["merchant_address", "456 Unreal Rd"], ["merchant_name", "Tom's Awesome Shop"], ["purchase_count", 5], ["purchase_id", 1], ["purchaser_name", "Amy Pond"], ["updated_at", Fri, 25 Apr 2014 00:33:08 UTC +00:00]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  UPDATE "purchases" SET "gross_revenue" = 90.0, "updated_at" = '2014-04-25 00:33:08.310260' WHERE "purchases"."id" = 1
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://test.host/purchases/1
+Completed 302 Found in 83ms (ActiveRecord: 40.1ms)
+  [1m[35mPurchase Load (0.1ms)[0m  SELECT "purchases".* FROM "purchases" LIMIT 1
+  [1m[36m (1.8ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Processing by PurchasesController#create as HTML
+  Parameters: {"file"=>#<Rack::Test::UploadedFile:0x007f986c12a4d8 @content_type="text/plain", @original_filename="valid.tab", @tempfile=#<File:/var/folders/b0/b_yq0c6s509cgb8kcr_nb_0c0000gn/T/valid.tab20140424-7661-xymctx>>}
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (42.2ms)[0m  [1mINSERT INTO "purchases" ("created_at", "file_name", "gross_revenue", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Fri, 25 Apr 2014 00:34:07 UTC +00:00], ["file_name", "valid.tab"], ["gross_revenue", nil], ["updated_at", Fri, 25 Apr 2014 00:34:07 UTC +00:00]]
+  [1m[35mSQL (0.4ms)[0m  INSERT INTO "inventories" ("created_at", "item_description", "item_price", "merchant_address", "merchant_name", "purchase_count", "purchase_id", "purchaser_name", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)  [["created_at", Fri, 25 Apr 2014 00:34:07 UTC +00:00], ["item_description", "$10 off $20 of food"], ["item_price", #<BigDecimal:7f986ec78720,'0.2E2',9(45)>], ["merchant_address", "987 Fake St"], ["merchant_name", "Bob's Pizza"], ["purchase_count", 2], ["purchase_id", 1], ["purchaser_name", "Snake Plissken"], ["updated_at", Fri, 25 Apr 2014 00:34:07 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.8ms)[0m  [1mINSERT INTO "inventories" ("created_at", "item_description", "item_price", "merchant_address", "merchant_name", "purchase_count", "purchase_id", "purchaser_name", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Fri, 25 Apr 2014 00:34:07 UTC +00:00], ["item_description", "$30 of awesome for $10"], ["item_price", #<BigDecimal:7f986eb85c00,'0.1E2',9(45)>], ["merchant_address", "456 Unreal Rd"], ["merchant_name", "Tom's Awesome Shop"], ["purchase_count", 5], ["purchase_id", 1], ["purchaser_name", "Amy Pond"], ["updated_at", Fri, 25 Apr 2014 00:34:07 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  UPDATE "purchases" SET "gross_revenue" = 90.0, "updated_at" = '2014-04-25 00:34:07.741048' WHERE "purchases"."id" = 1
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://test.host/purchases/1
+Completed 302 Found in 63ms (ActiveRecord: 43.9ms)
+  [1m[35mPurchase Load (0.1ms)[0m  SELECT "purchases".* FROM "purchases" LIMIT 1
+  [1m[36m (2.3ms)[0m  [1mrollback transaction[0m
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+Processing by PurchasesController#create as HTML
+  Parameters: {"file"=>#<Rack::Test::UploadedFile:0x007fe758801550 @content_type="text/plain", @original_filename="valid.tab", @tempfile=#<File:/var/folders/b0/b_yq0c6s509cgb8kcr_nb_0c0000gn/T/valid.tab20140424-7664-1h4uill>>}
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (6.4ms)[0m  [1mINSERT INTO "purchases" ("created_at", "file_name", "gross_revenue", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Fri, 25 Apr 2014 00:35:18 UTC +00:00], ["file_name", "valid.tab"], ["gross_revenue", nil], ["updated_at", Fri, 25 Apr 2014 00:35:18 UTC +00:00]]
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO "inventories" ("created_at", "item_description", "item_price", "merchant_address", "merchant_name", "purchase_count", "purchase_id", "purchaser_name", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)  [["created_at", Fri, 25 Apr 2014 00:35:18 UTC +00:00], ["item_description", "$10 off $20 of food"], ["item_price", #<BigDecimal:7fe754c2ee60,'0.2E2',9(45)>], ["merchant_address", "987 Fake St"], ["merchant_name", "Bob's Pizza"], ["purchase_count", 2], ["purchase_id", 1], ["purchaser_name", "Snake Plissken"], ["updated_at", Fri, 25 Apr 2014 00:35:18 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.7ms)[0m  [1mINSERT INTO "inventories" ("created_at", "item_description", "item_price", "merchant_address", "merchant_name", "purchase_count", "purchase_id", "purchaser_name", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Fri, 25 Apr 2014 00:35:18 UTC +00:00], ["item_description", "$30 of awesome for $10"], ["item_price", #<BigDecimal:7fe754ae15a8,'0.1E2',9(45)>], ["merchant_address", "456 Unreal Rd"], ["merchant_name", "Tom's Awesome Shop"], ["purchase_count", 5], ["purchase_id", 1], ["purchaser_name", "Amy Pond"], ["updated_at", Fri, 25 Apr 2014 00:35:18 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  UPDATE "purchases" SET "gross_revenue" = 90.0, "updated_at" = '2014-04-25 00:35:18.274125' WHERE "purchases"."id" = 1
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://test.host/purchases/1
+Completed 302 Found in 40ms (ActiveRecord: 9.8ms)
+  [1m[35mPurchase Load (0.1ms)[0m  SELECT "purchases".* FROM "purchases" LIMIT 1
+  [1m[36m (1.9ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+Processing by PurchasesController#create as HTML
+  Parameters: {"file"=>#<Rack::Test::UploadedFile:0x007fceebfdc520 @content_type="text/plain", @original_filename="valid.tab", @tempfile=#<File:/var/folders/b0/b_yq0c6s509cgb8kcr_nb_0c0000gn/T/valid.tab20140424-7665-7tbblb>>}
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (6.9ms)[0m  [1mINSERT INTO "purchases" ("created_at", "file_name", "gross_revenue", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Fri, 25 Apr 2014 00:35:33 UTC +00:00], ["file_name", "valid.tab"], ["gross_revenue", nil], ["updated_at", Fri, 25 Apr 2014 00:35:33 UTC +00:00]]
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO "inventories" ("created_at", "item_description", "item_price", "merchant_address", "merchant_name", "purchase_count", "purchase_id", "purchaser_name", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)  [["created_at", Fri, 25 Apr 2014 00:35:33 UTC +00:00], ["item_description", "$10 off $20 of food"], ["item_price", #<BigDecimal:7fceebdb2ad8,'0.2E2',9(45)>], ["merchant_address", "987 Fake St"], ["merchant_name", "Bob's Pizza"], ["purchase_count", 2], ["purchase_id", 1], ["purchaser_name", "Snake Plissken"], ["updated_at", Fri, 25 Apr 2014 00:35:33 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (1.3ms)[0m  [1mINSERT INTO "inventories" ("created_at", "item_description", "item_price", "merchant_address", "merchant_name", "purchase_count", "purchase_id", "purchaser_name", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Fri, 25 Apr 2014 00:35:33 UTC +00:00], ["item_description", "$30 of awesome for $10"], ["item_price", #<BigDecimal:7fceebdbe298,'0.1E2',9(45)>], ["merchant_address", "456 Unreal Rd"], ["merchant_name", "Tom's Awesome Shop"], ["purchase_count", 5], ["purchase_id", 1], ["purchaser_name", "Amy Pond"], ["updated_at", Fri, 25 Apr 2014 00:35:33 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  UPDATE "purchases" SET "gross_revenue" = 90.0, "updated_at" = '2014-04-25 00:35:33.394804' WHERE "purchases"."id" = 1
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://test.host/purchases/1
+Completed 302 Found in 47ms (ActiveRecord: 12.2ms)
+  [1m[35mPurchase Load (0.1ms)[0m  SELECT "purchases".* FROM "purchases" LIMIT 1
+  [1m[36m (2.3ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+Connecting to database specified by database.yml
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+Processing by PurchasesController#create as HTML
+  Parameters: {"file"=>#<Rack::Test::UploadedFile:0x007faaf34f4110 @content_type="text/plain", @original_filename="valid.tab", @tempfile=#<File:/var/folders/b0/b_yq0c6s509cgb8kcr_nb_0c0000gn/T/valid.tab20140424-7688-f091kq>>}
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (8.7ms)[0m  [1mINSERT INTO "purchases" ("created_at", "file_name", "gross_revenue", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Fri, 25 Apr 2014 00:41:43 UTC +00:00], ["file_name", "valid.tab"], ["gross_revenue", nil], ["updated_at", Fri, 25 Apr 2014 00:41:43 UTC +00:00]]
+  [1m[35mSQL (0.7ms)[0m  INSERT INTO "inventories" ("created_at", "item_description", "item_price", "merchant_address", "merchant_name", "purchase_count", "purchase_id", "purchaser_name", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)  [["created_at", Fri, 25 Apr 2014 00:41:43 UTC +00:00], ["item_description", "$10 off $20 of food"], ["item_price", #<BigDecimal:7faaf320dfa0,'0.2E2',9(45)>], ["merchant_address", "987 Fake St"], ["merchant_name", "Bob's Pizza"], ["purchase_count", 2], ["purchase_id", 1], ["purchaser_name", "Snake Plissken"], ["updated_at", Fri, 25 Apr 2014 00:41:43 UTC +00:00]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.8ms)[0m  [1mINSERT INTO "inventories" ("created_at", "item_description", "item_price", "merchant_address", "merchant_name", "purchase_count", "purchase_id", "purchaser_name", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Fri, 25 Apr 2014 00:41:43 UTC +00:00], ["item_description", "$30 of awesome for $10"], ["item_price", #<BigDecimal:7faaf32196c0,'0.1E2',9(45)>], ["merchant_address", "456 Unreal Rd"], ["merchant_name", "Tom's Awesome Shop"], ["purchase_count", 5], ["purchase_id", 1], ["purchaser_name", "Amy Pond"], ["updated_at", Fri, 25 Apr 2014 00:41:43 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  UPDATE "purchases" SET "gross_revenue" = 90.0, "updated_at" = '2014-04-25 00:41:43.114044' WHERE "purchases"."id" = 1
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://test.host/purchases/1
+Completed 302 Found in 46ms (ActiveRecord: 13.2ms)
+  [1m[35mPurchase Load (0.1ms)[0m  SELECT "purchases".* FROM "purchases" LIMIT 1
+  [1m[36m (0.4ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+Processing by PurchasesController#create as HTML
+  Parameters: {"file"=>#<Rack::Test::UploadedFile:0x007fd16f29ae08 @content_type="text/plain", @original_filename="valid.tab", @tempfile=#<File:/var/folders/b0/b_yq0c6s509cgb8kcr_nb_0c0000gn/T/valid.tab20140424-7702-1fa8pv8>>}
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (8.7ms)[0m  [1mINSERT INTO "purchases" ("created_at", "file_name", "gross_revenue", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Fri, 25 Apr 2014 00:46:10 UTC +00:00], ["file_name", "valid.tab"], ["gross_revenue", nil], ["updated_at", Fri, 25 Apr 2014 00:46:10 UTC +00:00]]
+  [1m[35mSQL (0.6ms)[0m  INSERT INTO "inventories" ("created_at", "item_description", "item_price", "merchant_address", "merchant_name", "purchase_count", "purchase_id", "purchaser_name", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)  [["created_at", Fri, 25 Apr 2014 00:46:10 UTC +00:00], ["item_description", "$10 off $20 of food"], ["item_price", #<BigDecimal:7fd16f317db8,'0.2E2',9(45)>], ["merchant_address", "987 Fake St"], ["merchant_name", "Bob's Pizza"], ["purchase_count", 2], ["purchase_id", 1], ["purchaser_name", "Snake Plissken"], ["updated_at", Fri, 25 Apr 2014 00:46:10 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.8ms)[0m  [1mINSERT INTO "inventories" ("created_at", "item_description", "item_price", "merchant_address", "merchant_name", "purchase_count", "purchase_id", "purchaser_name", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Fri, 25 Apr 2014 00:46:10 UTC +00:00], ["item_description", "$30 of awesome for $10"], ["item_price", #<BigDecimal:7fd16f323820,'0.1E2',9(45)>], ["merchant_address", "456 Unreal Rd"], ["merchant_name", "Tom's Awesome Shop"], ["purchase_count", 5], ["purchase_id", 1], ["purchaser_name", "Amy Pond"], ["updated_at", Fri, 25 Apr 2014 00:46:10 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  UPDATE "purchases" SET "gross_revenue" = 90.0, "updated_at" = '2014-04-25 00:46:10.612514' WHERE "purchases"."id" = 1
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://test.host/purchases/1
+Completed 302 Found in 45ms (ActiveRecord: 12.7ms)
+  [1m[35mPurchase Load (0.1ms)[0m  SELECT "purchases".* FROM "purchases" LIMIT 1
+  [1m[36m (0.3ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Processing by PurchasesController#create as HTML
+  Parameters: {"file"=>#<Rack::Test::UploadedFile:0x007fd16f351e00 @content_type="text/plain", @original_filename="invalid.tab", @tempfile=#<File:/var/folders/b0/b_yq0c6s509cgb8kcr_nb_0c0000gn/T/invalid.tab20140424-7702-wxx2uj>>}
+Redirected to http://test.host/purchases/new?inventory_errors%5B%5D=%3Cb%3EAmy+Pond%3C%2Fb%3E+has+these+errors%3A+%3Cbr%3E+%26nbsp%3B%26nbsp%3B%26nbsp%3BItem+price+is+not+a+number%3Cbr%3E&inventory_errors%5B%5D=%3Cb%3ESnake+Plissken%3C%2Fb%3E+has+these+errors%3A+%3Cbr%3E+%26nbsp%3B%26nbsp%3B%26nbsp%3BPurchase+count+must+be+an+integer%3Cbr%3E
+Completed 302 Found in 247ms (ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+Connecting to database specified by database.yml
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+Processing by PurchasesController#create as HTML
+  Parameters: {"file"=>#<Rack::Test::UploadedFile:0x007f80ee460f48 @content_type="text/plain", @original_filename="valid.tab", @tempfile=#<File:/var/folders/b0/b_yq0c6s509cgb8kcr_nb_0c0000gn/T/valid.tab20140424-7706-1siiajl>>}
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (10.0ms)[0m  [1mINSERT INTO "purchases" ("created_at", "file_name", "gross_revenue", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Fri, 25 Apr 2014 00:47:45 UTC +00:00], ["file_name", "valid.tab"], ["gross_revenue", nil], ["updated_at", Fri, 25 Apr 2014 00:47:45 UTC +00:00]]
+  [1m[35mSQL (0.7ms)[0m  INSERT INTO "inventories" ("created_at", "item_description", "item_price", "merchant_address", "merchant_name", "purchase_count", "purchase_id", "purchaser_name", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)  [["created_at", Fri, 25 Apr 2014 00:47:45 UTC +00:00], ["item_description", "$10 off $20 of food"], ["item_price", #<BigDecimal:7f80ee22f530,'0.2E2',9(45)>], ["merchant_address", "987 Fake St"], ["merchant_name", "Bob's Pizza"], ["purchase_count", 2], ["purchase_id", 1], ["purchaser_name", "Snake Plissken"], ["updated_at", Fri, 25 Apr 2014 00:47:45 UTC +00:00]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.9ms)[0m  [1mINSERT INTO "inventories" ("created_at", "item_description", "item_price", "merchant_address", "merchant_name", "purchase_count", "purchase_id", "purchaser_name", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Fri, 25 Apr 2014 00:47:45 UTC +00:00], ["item_description", "$30 of awesome for $10"], ["item_price", #<BigDecimal:7f80ee0dcdb8,'0.1E2',9(45)>], ["merchant_address", "456 Unreal Rd"], ["merchant_name", "Tom's Awesome Shop"], ["purchase_count", 5], ["purchase_id", 1], ["purchaser_name", "Amy Pond"], ["updated_at", Fri, 25 Apr 2014 00:47:45 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  UPDATE "purchases" SET "gross_revenue" = 90.0, "updated_at" = '2014-04-25 00:47:45.926477' WHERE "purchases"."id" = 1
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://test.host/purchases/1
+Completed 302 Found in 49ms (ActiveRecord: 14.1ms)
+  [1m[35mPurchase Load (0.1ms)[0m  SELECT "purchases".* FROM "purchases" LIMIT 1
+  [1m[36m (0.3ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Processing by PurchasesController#create as HTML
+  Parameters: {"file"=>#<Rack::Test::UploadedFile:0x007f80ee1a4e08 @content_type="text/plain", @original_filename="invalid.tab", @tempfile=#<File:/var/folders/b0/b_yq0c6s509cgb8kcr_nb_0c0000gn/T/invalid.tab20140424-7706-tu5yes>>}
+Redirected to http://test.host/purchases/new?inventory_errors%5B%5D=%3Cb%3EAmy+Pond%3C%2Fb%3E+has+these+errors%3A+%3Cbr%3E+%26nbsp%3B%26nbsp%3B%26nbsp%3BItem+price+is+not+a+number%3Cbr%3E&inventory_errors%5B%5D=%3Cb%3ESnake+Plissken%3C%2Fb%3E+has+these+errors%3A+%3Cbr%3E+%26nbsp%3B%26nbsp%3B%26nbsp%3BPurchase+count+must+be+an+integer%3Cbr%3E
+Completed 302 Found in 259ms (ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+Processing by PurchasesController#create as HTML
+  Parameters: {"file"=>#<Rack::Test::UploadedFile:0x007fb10122c338 @content_type="text/plain", @original_filename="valid.tab", @tempfile=#<File:/var/folders/b0/b_yq0c6s509cgb8kcr_nb_0c0000gn/T/valid.tab20140424-7708-pzbkcq>>}
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (6.0ms)[0m  [1mINSERT INTO "purchases" ("created_at", "file_name", "gross_revenue", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Fri, 25 Apr 2014 00:49:36 UTC +00:00], ["file_name", "valid.tab"], ["gross_revenue", nil], ["updated_at", Fri, 25 Apr 2014 00:49:36 UTC +00:00]]
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO "inventories" ("created_at", "item_description", "item_price", "merchant_address", "merchant_name", "purchase_count", "purchase_id", "purchaser_name", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)  [["created_at", Fri, 25 Apr 2014 00:49:36 UTC +00:00], ["item_description", "$10 off $20 of food"], ["item_price", #<BigDecimal:7fb101169130,'0.2E2',9(45)>], ["merchant_address", "987 Fake St"], ["merchant_name", "Bob's Pizza"], ["purchase_count", 2], ["purchase_id", 1], ["purchaser_name", "Snake Plissken"], ["updated_at", Fri, 25 Apr 2014 00:49:36 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.9ms)[0m  [1mINSERT INTO "inventories" ("created_at", "item_description", "item_price", "merchant_address", "merchant_name", "purchase_count", "purchase_id", "purchaser_name", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Fri, 25 Apr 2014 00:49:36 UTC +00:00], ["item_description", "$30 of awesome for $10"], ["item_price", #<BigDecimal:7fb101196540,'0.1E2',9(45)>], ["merchant_address", "456 Unreal Rd"], ["merchant_name", "Tom's Awesome Shop"], ["purchase_count", 5], ["purchase_id", 1], ["purchaser_name", "Amy Pond"], ["updated_at", Fri, 25 Apr 2014 00:49:36 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  UPDATE "purchases" SET "gross_revenue" = 90.0, "updated_at" = '2014-04-25 00:49:36.666291' WHERE "purchases"."id" = 1
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://test.host/purchases/1
+Completed 302 Found in 62ms (ActiveRecord: 9.3ms)
+  [1m[35mPurchase Load (0.1ms)[0m  SELECT "purchases".* FROM "purchases" LIMIT 1
+  [1m[36m (1.8ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Processing by PurchasesController#create as HTML
+  Parameters: {"file"=>#<Rack::Test::UploadedFile:0x007fb10106e528 @content_type="text/plain", @original_filename="invalid.tab", @tempfile=#<File:/var/folders/b0/b_yq0c6s509cgb8kcr_nb_0c0000gn/T/invalid.tab20140424-7708-1t9fms>>}
+Redirected to http://test.host/purchases/new?inventory_errors%5B%5D=%3Cb%3EAmy+Pond%3C%2Fb%3E+has+these+errors%3A+%3Cbr%3E+%26nbsp%3B%26nbsp%3B%26nbsp%3BItem+price+is+not+a+number%3Cbr%3E&inventory_errors%5B%5D=%3Cb%3ESnake+Plissken%3C%2Fb%3E+has+these+errors%3A+%3Cbr%3E+%26nbsp%3B%26nbsp%3B%26nbsp%3BPurchase+count+must+be+an+integer%3Cbr%3E
+Completed 302 Found in 213ms (ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+Connecting to database specified by database.yml
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Processing by PurchasesController#create as HTML
+  Parameters: {"file"=>#<Rack::Test::UploadedFile:0x007fe0b30edf58 @content_type="text/plain", @original_filename="invalid.tab", @tempfile=#<File:/var/folders/b0/b_yq0c6s509cgb8kcr_nb_0c0000gn/T/invalid.tab20140424-7712-14z1o3c>>}
+Redirected to http://test.host/purchases/new?inventory_errors%5B%5D=%3Cb%3EAmy+Pond%3C%2Fb%3E+has+these+errors%3A+%3Cbr%3E+%26nbsp%3B%26nbsp%3B%26nbsp%3BItem+price+is+not+a+number%3Cbr%3E&inventory_errors%5B%5D=%3Cb%3ESnake+Plissken%3C%2Fb%3E+has+these+errors%3A+%3Cbr%3E+%26nbsp%3B%26nbsp%3B%26nbsp%3BPurchase+count+must+be+an+integer%3Cbr%3E
+Completed 302 Found in 9ms (ActiveRecord: 0.2ms)
+  [1m[35m (2.4ms)[0m  SELECT COUNT(*) FROM "purchases" 
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Processing by PurchasesController#create as HTML
+  Parameters: {"file"=>#<Rack::Test::UploadedFile:0x007fe0b68b75d8 @content_type="text/plain", @original_filename="valid.tab", @tempfile=#<File:/var/folders/b0/b_yq0c6s509cgb8kcr_nb_0c0000gn/T/valid.tab20140424-7712-s2uxr5>>}
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (7.8ms)[0m  INSERT INTO "purchases" ("created_at", "file_name", "gross_revenue", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Fri, 25 Apr 2014 00:52:11 UTC +00:00], ["file_name", "valid.tab"], ["gross_revenue", nil], ["updated_at", Fri, 25 Apr 2014 00:52:11 UTC +00:00]]
+  [1m[36mSQL (0.9ms)[0m  [1mINSERT INTO "inventories" ("created_at", "item_description", "item_price", "merchant_address", "merchant_name", "purchase_count", "purchase_id", "purchaser_name", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Fri, 25 Apr 2014 00:52:11 UTC +00:00], ["item_description", "$10 off $20 of food"], ["item_price", #<BigDecimal:7fe0b665fdf8,'0.2E2',9(45)>], ["merchant_address", "987 Fake St"], ["merchant_name", "Bob's Pizza"], ["purchase_count", 2], ["purchase_id", 1], ["purchaser_name", "Snake Plissken"], ["updated_at", Fri, 25 Apr 2014 00:52:11 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.9ms)[0m  INSERT INTO "inventories" ("created_at", "item_description", "item_price", "merchant_address", "merchant_name", "purchase_count", "purchase_id", "purchaser_name", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)  [["created_at", Fri, 25 Apr 2014 00:52:11 UTC +00:00], ["item_description", "$30 of awesome for $10"], ["item_price", #<BigDecimal:7fe0b666d4d0,'0.1E2',9(45)>], ["merchant_address", "456 Unreal Rd"], ["merchant_name", "Tom's Awesome Shop"], ["purchase_count", 5], ["purchase_id", 1], ["purchaser_name", "Amy Pond"], ["updated_at", Fri, 25 Apr 2014 00:52:11 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mUPDATE "purchases" SET "gross_revenue" = 90.0, "updated_at" = '2014-04-25 00:52:11.707849' WHERE "purchases"."id" = 1[0m
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/purchases/1
+Completed 302 Found in 32ms (ActiveRecord: 9.8ms)
+  [1m[36mPurchase Load (0.1ms)[0m  [1mSELECT "purchases".* FROM "purchases" LIMIT 1[0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+Processing by PurchasesController#create as HTML
+  Parameters: {"file"=>#<Rack::Test::UploadedFile:0x007f9b2e7476f8 @content_type="text/plain", @original_filename="valid.tab", @tempfile=#<File:/var/folders/b0/b_yq0c6s509cgb8kcr_nb_0c0000gn/T/valid.tab20140424-7717-s2uyqs>>}
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (7.1ms)[0m  [1mINSERT INTO "purchases" ("created_at", "file_name", "gross_revenue", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Fri, 25 Apr 2014 00:53:51 UTC +00:00], ["file_name", "valid.tab"], ["gross_revenue", nil], ["updated_at", Fri, 25 Apr 2014 00:53:51 UTC +00:00]]
+  [1m[35mSQL (0.4ms)[0m  INSERT INTO "inventories" ("created_at", "item_description", "item_price", "merchant_address", "merchant_name", "purchase_count", "purchase_id", "purchaser_name", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)  [["created_at", Fri, 25 Apr 2014 00:53:51 UTC +00:00], ["item_description", "$10 off $20 of food"], ["item_price", #<BigDecimal:7f9b2f04a890,'0.2E2',9(45)>], ["merchant_address", "987 Fake St"], ["merchant_name", "Bob's Pizza"], ["purchase_count", 2], ["purchase_id", 1], ["purchaser_name", "Snake Plissken"], ["updated_at", Fri, 25 Apr 2014 00:53:51 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.9ms)[0m  [1mINSERT INTO "inventories" ("created_at", "item_description", "item_price", "merchant_address", "merchant_name", "purchase_count", "purchase_id", "purchaser_name", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Fri, 25 Apr 2014 00:53:51 UTC +00:00], ["item_description", "$30 of awesome for $10"], ["item_price", #<BigDecimal:7f9b2f056348,'0.1E2',9(45)>], ["merchant_address", "456 Unreal Rd"], ["merchant_name", "Tom's Awesome Shop"], ["purchase_count", 5], ["purchase_id", 1], ["purchaser_name", "Amy Pond"], ["updated_at", Fri, 25 Apr 2014 00:53:51 UTC +00:00]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  UPDATE "purchases" SET "gross_revenue" = 90.0, "updated_at" = '2014-04-25 00:53:51.078276' WHERE "purchases"."id" = 1
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://test.host/purchases/1
+Completed 302 Found in 42ms (ActiveRecord: 11.1ms)
+  [1m[35mPurchase Load (0.2ms)[0m  SELECT "purchases".* FROM "purchases" LIMIT 1
+  [1m[36m (0.7ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "purchases" [0m
+Processing by PurchasesController#create as HTML
+  Parameters: {"file"=>#<Rack::Test::UploadedFile:0x007f9b2f07c958 @content_type="text/plain", @original_filename="invalid.tab", @tempfile=#<File:/var/folders/b0/b_yq0c6s509cgb8kcr_nb_0c0000gn/T/invalid.tab20140424-7717-j8qvdi>>}
+Redirected to http://test.host/purchases/new?inventory_errors%5B%5D=%3Cb%3EAmy+Pond%3C%2Fb%3E+has+these+errors%3A+%3Cbr%3E+%26nbsp%3B%26nbsp%3B%26nbsp%3BItem+price+is+not+a+number%3Cbr%3E&inventory_errors%5B%5D=%3Cb%3ESnake+Plissken%3C%2Fb%3E+has+these+errors%3A+%3Cbr%3E+%26nbsp%3B%26nbsp%3B%26nbsp%3BPurchase+count+must+be+an+integer%3Cbr%3E
+Completed 302 Found in 199ms (ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  SELECT COUNT(*) FROM "purchases" 
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (1.3ms)[0m  SELECT COUNT(*) FROM "inventories" 
+Processing by PurchasesController#create as HTML
+  Parameters: {"file"=>#<Rack::Test::UploadedFile:0x007fe0a73853a8 @content_type="text/plain", @original_filename="invalid.tab", @tempfile=#<File:/var/folders/b0/b_yq0c6s509cgb8kcr_nb_0c0000gn/T/invalid.tab20140424-7720-qbvitj>>}
+Redirected to http://test.host/purchases/new?inventory_errors%5B%5D=%3Cb%3EAmy+Pond%3C%2Fb%3E+has+these+errors%3A+%3Cbr%3E+%26nbsp%3B%26nbsp%3B%26nbsp%3BItem+price+is+not+a+number%3Cbr%3E&inventory_errors%5B%5D=%3Cb%3ESnake+Plissken%3C%2Fb%3E+has+these+errors%3A+%3Cbr%3E+%26nbsp%3B%26nbsp%3B%26nbsp%3BPurchase+count+must+be+an+integer%3Cbr%3E
+Completed 302 Found in 186ms (ActiveRecord: 0.2ms)
+  [1m[36m (0.1ms)[0m  [1mSELECT COUNT(*) FROM "inventories" [0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  SELECT COUNT(*) FROM "purchases" 
+Processing by PurchasesController#create as HTML
+  Parameters: {"file"=>#<Rack::Test::UploadedFile:0x007fe0a73493f8 @content_type="text/plain", @original_filename="invalid.tab", @tempfile=#<File:/var/folders/b0/b_yq0c6s509cgb8kcr_nb_0c0000gn/T/invalid.tab20140424-7720-tsj8wr>>}
+Redirected to http://test.host/purchases/new?inventory_errors%5B%5D=%3Cb%3EAmy+Pond%3C%2Fb%3E+has+these+errors%3A+%3Cbr%3E+%26nbsp%3B%26nbsp%3B%26nbsp%3BItem+price+is+not+a+number%3Cbr%3E&inventory_errors%5B%5D=%3Cb%3ESnake+Plissken%3C%2Fb%3E+has+these+errors%3A+%3Cbr%3E+%26nbsp%3B%26nbsp%3B%26nbsp%3BPurchase+count+must+be+an+integer%3Cbr%3E
+Completed 302 Found in 3ms (ActiveRecord: 0.0ms)
+  [1m[36m (0.0ms)[0m  [1mSELECT COUNT(*) FROM "purchases" [0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  SELECT COUNT(*) FROM "inventories" 
+Processing by PurchasesController#create as HTML
+  Parameters: {"file"=>#<Rack::Test::UploadedFile:0x007fe0a76c41b8 @content_type="text/plain", @original_filename="valid.tab", @tempfile=#<File:/var/folders/b0/b_yq0c6s509cgb8kcr_nb_0c0000gn/T/valid.tab20140424-7720-1l42hag>>}
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (5.5ms)[0m  INSERT INTO "purchases" ("created_at", "file_name", "gross_revenue", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Fri, 25 Apr 2014 00:56:34 UTC +00:00], ["file_name", "valid.tab"], ["gross_revenue", nil], ["updated_at", Fri, 25 Apr 2014 00:56:34 UTC +00:00]]
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "inventories" ("created_at", "item_description", "item_price", "merchant_address", "merchant_name", "purchase_count", "purchase_id", "purchaser_name", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Fri, 25 Apr 2014 00:56:34 UTC +00:00], ["item_description", "$10 off $20 of food"], ["item_price", #<BigDecimal:7fe0a70ffc00,'0.2E2',9(45)>], ["merchant_address", "987 Fake St"], ["merchant_name", "Bob's Pizza"], ["purchase_count", 2], ["purchase_id", 1], ["purchaser_name", "Snake Plissken"], ["updated_at", Fri, 25 Apr 2014 00:56:34 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.7ms)[0m  INSERT INTO "inventories" ("created_at", "item_description", "item_price", "merchant_address", "merchant_name", "purchase_count", "purchase_id", "purchaser_name", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)  [["created_at", Fri, 25 Apr 2014 00:56:34 UTC +00:00], ["item_description", "$30 of awesome for $10"], ["item_price", #<BigDecimal:7fe0a72226f0,'0.1E2',9(45)>], ["merchant_address", "456 Unreal Rd"], ["merchant_name", "Tom's Awesome Shop"], ["purchase_count", 5], ["purchase_id", 1], ["purchaser_name", "Amy Pond"], ["updated_at", Fri, 25 Apr 2014 00:56:34 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mUPDATE "purchases" SET "gross_revenue" = 90.0, "updated_at" = '2014-04-25 00:56:34.047080' WHERE "purchases"."id" = 1[0m
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://test.host/purchases/1
+Completed 302 Found in 57ms (ActiveRecord: 6.8ms)
+  [1m[36m (0.1ms)[0m  [1mSELECT COUNT(*) FROM "inventories" [0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Processing by PurchasesController#create as HTML
+  Parameters: {"file"=>#<Rack::Test::UploadedFile:0x007fe0a73a5dd8 @content_type="text/plain", @original_filename="valid.tab", @tempfile=#<File:/var/folders/b0/b_yq0c6s509cgb8kcr_nb_0c0000gn/T/valid.tab20140424-7720-1tjtfmy>>}
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.4ms)[0m  [1mINSERT INTO "purchases" ("created_at", "file_name", "gross_revenue", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Fri, 25 Apr 2014 00:56:34 UTC +00:00], ["file_name", "valid.tab"], ["gross_revenue", nil], ["updated_at", Fri, 25 Apr 2014 00:56:34 UTC +00:00]]
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "inventories" ("created_at", "item_description", "item_price", "merchant_address", "merchant_name", "purchase_count", "purchase_id", "purchaser_name", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)  [["created_at", Fri, 25 Apr 2014 00:56:34 UTC +00:00], ["item_description", "$10 off $20 of food"], ["item_price", #<BigDecimal:7fe0a70ab6a0,'0.2E2',9(45)>], ["merchant_address", "987 Fake St"], ["merchant_name", "Bob's Pizza"], ["purchase_count", 2], ["purchase_id", 1], ["purchaser_name", "Snake Plissken"], ["updated_at", Fri, 25 Apr 2014 00:56:34 UTC +00:00]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.5ms)[0m  [1mINSERT INTO "inventories" ("created_at", "item_description", "item_price", "merchant_address", "merchant_name", "purchase_count", "purchase_id", "purchaser_name", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Fri, 25 Apr 2014 00:56:34 UTC +00:00], ["item_description", "$30 of awesome for $10"], ["item_price", #<BigDecimal:7fe0a75d96b8,'0.1E2',9(45)>], ["merchant_address", "456 Unreal Rd"], ["merchant_name", "Tom's Awesome Shop"], ["purchase_count", 5], ["purchase_id", 1], ["purchaser_name", "Amy Pond"], ["updated_at", Fri, 25 Apr 2014 00:56:34 UTC +00:00]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  UPDATE "purchases" SET "gross_revenue" = 90.0, "updated_at" = '2014-04-25 00:56:34.060431' WHERE "purchases"."id" = 1
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://test.host/purchases/1
+Completed 302 Found in 8ms (ActiveRecord: 1.5ms)
+  [1m[35mPurchase Load (0.2ms)[0m  SELECT "purchases".* FROM "purchases" LIMIT 1
+  [1m[36m (0.5ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.5ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+Processing by PurchasesController#create as HTML
+  Parameters: {"file"=>#<Rack::Test::UploadedFile:0x007fc626c4b140 @content_type="text/plain", @original_filename="valid.tab", @tempfile=#<File:/var/folders/b0/b_yq0c6s509cgb8kcr_nb_0c0000gn/T/valid.tab20140424-7721-1s2gcst>>}
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (6.0ms)[0m  [1mINSERT INTO "purchases" ("created_at", "file_name", "gross_revenue", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Fri, 25 Apr 2014 00:57:35 UTC +00:00], ["file_name", "valid.tab"], ["gross_revenue", nil], ["updated_at", Fri, 25 Apr 2014 00:57:35 UTC +00:00]]
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "inventories" ("created_at", "item_description", "item_price", "merchant_address", "merchant_name", "purchase_count", "purchase_id", "purchaser_name", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)  [["created_at", Fri, 25 Apr 2014 00:57:35 UTC +00:00], ["item_description", "$10 off $20 of food"], ["item_price", #<BigDecimal:7fc626db7358,'0.2E2',9(45)>], ["merchant_address", "987 Fake St"], ["merchant_name", "Bob's Pizza"], ["purchase_count", 2], ["purchase_id", 1], ["purchaser_name", "Snake Plissken"], ["updated_at", Fri, 25 Apr 2014 00:57:35 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.8ms)[0m  [1mINSERT INTO "inventories" ("created_at", "item_description", "item_price", "merchant_address", "merchant_name", "purchase_count", "purchase_id", "purchaser_name", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Fri, 25 Apr 2014 00:57:35 UTC +00:00], ["item_description", "$30 of awesome for $10"], ["item_price", #<BigDecimal:7fc6249469b0,'0.1E2',9(45)>], ["merchant_address", "456 Unreal Rd"], ["merchant_name", "Tom's Awesome Shop"], ["purchase_count", 5], ["purchase_id", 1], ["purchaser_name", "Amy Pond"], ["updated_at", Fri, 25 Apr 2014 00:57:35 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  UPDATE "purchases" SET "gross_revenue" = 90.0, "updated_at" = '2014-04-25 00:57:35.593972' WHERE "purchases"."id" = 1
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://test.host/purchases/1
+Completed 302 Found in 40ms (ActiveRecord: 9.7ms)
+  [1m[35mPurchase Load (0.2ms)[0m  SELECT "purchases".* FROM "purchases" LIMIT 1
+  [1m[36m (2.4ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "inventories" [0m
+Processing by PurchasesController#create as HTML
+  Parameters: {"file"=>#<Rack::Test::UploadedFile:0x007fc626e3a9b0 @content_type="text/plain", @original_filename="valid.tab", @tempfile=#<File:/var/folders/b0/b_yq0c6s509cgb8kcr_nb_0c0000gn/T/valid.tab20140424-7721-10tp36s>>}
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.4ms)[0m  [1mINSERT INTO "purchases" ("created_at", "file_name", "gross_revenue", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Fri, 25 Apr 2014 00:57:35 UTC +00:00], ["file_name", "valid.tab"], ["gross_revenue", nil], ["updated_at", Fri, 25 Apr 2014 00:57:35 UTC +00:00]]
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "inventories" ("created_at", "item_description", "item_price", "merchant_address", "merchant_name", "purchase_count", "purchase_id", "purchaser_name", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)  [["created_at", Fri, 25 Apr 2014 00:57:35 UTC +00:00], ["item_description", "$10 off $20 of food"], ["item_price", #<BigDecimal:7fc6246ee6e0,'0.2E2',9(45)>], ["merchant_address", "987 Fake St"], ["merchant_name", "Bob's Pizza"], ["purchase_count", 2], ["purchase_id", 1], ["purchaser_name", "Snake Plissken"], ["updated_at", Fri, 25 Apr 2014 00:57:35 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "inventories" ("created_at", "item_description", "item_price", "merchant_address", "merchant_name", "purchase_count", "purchase_id", "purchaser_name", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)[0m  [["created_at", Fri, 25 Apr 2014 00:57:35 UTC +00:00], ["item_description", "$30 of awesome for $10"], ["item_price", #<BigDecimal:7fc6246f48d8,'0.1E2',9(45)>], ["merchant_address", "456 Unreal Rd"], ["merchant_name", "Tom's Awesome Shop"], ["purchase_count", 5], ["purchase_id", 1], ["purchaser_name", "Amy Pond"], ["updated_at", Fri, 25 Apr 2014 00:57:35 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  UPDATE "purchases" SET "gross_revenue" = 90.0, "updated_at" = '2014-04-25 00:57:35.615192' WHERE "purchases"."id" = 1
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://test.host/purchases/1
+Completed 302 Found in 6ms (ActiveRecord: 1.0ms)
+  [1m[35m (0.0ms)[0m  SELECT COUNT(*) FROM "inventories" 
+  [1m[36m (0.4ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mSELECT COUNT(*) FROM "inventories" [0m
+Processing by PurchasesController#create as HTML
+  Parameters: {"file"=>#<Rack::Test::UploadedFile:0x007fc626f79e48 @content_type="text/plain", @original_filename="invalid.tab", @tempfile=#<File:/var/folders/b0/b_yq0c6s509cgb8kcr_nb_0c0000gn/T/invalid.tab20140424-7721-1u6fw3u>>}
+Redirected to http://test.host/purchases/new?inventory_errors%5B%5D=%3Cb%3EAmy+Pond%3C%2Fb%3E+has+these+errors%3A+%3Cbr%3E+%26nbsp%3B%26nbsp%3B%26nbsp%3BItem+price+is+not+a+number%3Cbr%3E&inventory_errors%5B%5D=%3Cb%3ESnake+Plissken%3C%2Fb%3E+has+these+errors%3A+%3Cbr%3E+%26nbsp%3B%26nbsp%3B%26nbsp%3BPurchase+count+must+be+an+integer%3Cbr%3E
+Completed 302 Found in 203ms (ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  SELECT COUNT(*) FROM "inventories" 
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mSELECT COUNT(*) FROM "purchases" [0m
+Processing by PurchasesController#create as HTML
+  Parameters: {"file"=>#<Rack::Test::UploadedFile:0x007fc626dc55e8 @content_type="text/plain", @original_filename="invalid.tab", @tempfile=#<File:/var/folders/b0/b_yq0c6s509cgb8kcr_nb_0c0000gn/T/invalid.tab20140424-7721-1q3dsk4>>}
+Redirected to http://test.host/purchases/new?inventory_errors%5B%5D=%3Cb%3EAmy+Pond%3C%2Fb%3E+has+these+errors%3A+%3Cbr%3E+%26nbsp%3B%26nbsp%3B%26nbsp%3BItem+price+is+not+a+number%3Cbr%3E&inventory_errors%5B%5D=%3Cb%3ESnake+Plissken%3C%2Fb%3E+has+these+errors%3A+%3Cbr%3E+%26nbsp%3B%26nbsp%3B%26nbsp%3BPurchase+count+must+be+an+integer%3Cbr%3E
+Completed 302 Found in 3ms (ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  SELECT COUNT(*) FROM "purchases" 
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
